@@ -1,6 +1,6 @@
 ## 📜 Historias de Usuario
 
-- [Historia de Usuario:](HU _ Automatización del Proceso de Contratación en OrangeHRM.pdf)
+- [Historia de Usuario:](/HU _ Automatización del Proceso de Contratación en OrangeHRM.pdf)
 
   
 # Automatización de Proceso de Contratacion en OrangeHRM  

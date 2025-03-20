@@ -1,4 +1,4 @@
-# Automatización de Proceso de Reclutamiento en OrangeHRM  
+# Automatización de Proceso de Contratacion en OrangeHRM  
 
 ## 📜 Criterios de Aceptación  
 

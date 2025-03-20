@@ -1,9 +1,13 @@
 # Automatización de Proceso de Contratacion en OrangeHRM  
-   **COMO** Administrador de Recursos Humanos
+
+
+        **COMO** Administrador de Recursos Humanos
    
-   **QUIERO** automatizar el proceso de agregar candidatos en OrangeHRM 
+         **QUIERO** automatizar el proceso de agregar candidatos en OrangeHRM 
    
-   **PARA** garantizar precisión y eficiencia en el reclutamiento.
+         **PARA** garantizar precisión y eficiencia en el reclutamiento.
+
+   
 
 ## 📜 Criterios de Aceptación  
 

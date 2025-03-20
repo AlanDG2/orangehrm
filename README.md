@@ -46,7 +46,7 @@ Automatizar el flujo completo de creación de un candidato en OrangeHRM, validan
 # Clonar repositorio
 git clone https://github.com/AlanDG2/orangehrm.git
 
-# Instalar dependencias
+# Correr el  test
 ./gradlew clean build
 
 # Reporte

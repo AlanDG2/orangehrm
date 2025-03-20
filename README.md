@@ -1,4 +1,3 @@
-## 📜 Historia de Usuario
 
 - [Historia de Usuario:](docs/HU.pdf)
 
